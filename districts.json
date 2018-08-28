@@ -1,0 +1,83 @@
+{
+  "bulawayo": [
+    "Bulawayo"
+  ],
+  "harare": [
+    "Harare"
+  ],
+  "manicaland": [
+    "Buhera",
+    "Chimanimani",
+    "Chipinge",
+    "Makoni",
+    "Mutare",
+    "Mutasa",
+    "Nyanga"
+  ],
+  "mashonalandcentral": [
+    "Bindura",
+    "Guruve",
+    "Mazowe",
+    "Mount Darwin",
+    "Mukumbura",
+    "Muzarabani",
+    "Rushinga",
+    "Shamva"
+  ],
+  "mashonalandeast": [
+    "Chikomba",
+    "Goromonzi",
+    "Hwedza",
+    "Marondera",
+    "Mudzi",
+    "Murehwa",
+    "Mutoko",
+    "Seke",
+    "Uzumba-Maramba-Pfungwe"
+  ],
+  "mashonalandwest": [
+    "Chegutu",
+    "Hurungwe",
+    "Kadoma",
+    "Kariba",
+    "Makonde",
+    "Zvimba"
+  ],
+  "masvingo": [
+    "Bikita",
+    "Chiredzi",
+    "Chivi",
+    "Gutu",
+    "Masvingo",
+    "Mwenezi",
+    "Zaka"
+  ],
+  "matebelelandnorth": [
+    "Binga",
+    "Bubi",
+    "Hwange",
+    "Lupane",
+    "Nkayi",
+    "Tsholotsho",
+    "Umguza"
+  ],
+  "matebelelandsouth": [
+    "Beitbridge",
+    "Bulilima",
+    "Mangwe",
+    "Gwanda",
+    "Insiza",
+    "Matobo",
+    "Umzingwane"
+  ],
+  "midlands": [
+    "Chirumhanzu",
+    "Gokwe North",
+    "Gokwe South",
+    "Gweru",
+    "Kwekwe",
+    "Mberengwa",
+    "Shurugwi",
+    "Zvishavane"
+  ]
+}
